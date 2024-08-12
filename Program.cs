@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace CauTrucLap
 {
@@ -47,14 +47,14 @@ namespace CauTrucLap
             LaiSuat = Double.Parse(Console.ReadLine());
 
             // Bước 3: Tính toán tổng số tiền lãi
-            double totalInterest = 0;
+            double TongLai = 0;
             for (int i = 0; i < ThangGui; i++)
             {
-                totalInterest += TienGui * (LaiSuat / 100) / 12;
+                TongLai += TienGui * (LaiSuat / 100) / 12;
             }
 
             // Bước 4: Hiển thị kết quả
-            Console.WriteLine("Tong lai nhan duoc: " + totalInterest);
+            Console.WriteLine("Tong lai nhan duoc: " + TongLai);
 
             // Bước 5: Kết thúc chương trình
             Console.WriteLine("Hoan thanh.");
