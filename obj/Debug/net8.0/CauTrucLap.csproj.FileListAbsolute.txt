@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\CauTrucLap\obj\Debug\net8.0\CauTrucLap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\CauTrucLap\obj\Debug\net8.0\CauTrucLap.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\CauTrucLap\obj\Debug\net8.0\CauTrucLap.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\CauTrucLap\obj\Debug\net8.0\CauTrucLap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\CauTrucLap\bin\Debug\net8.0\CauTrucLap.exe
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\CauTrucLap\bin\Debug\net8.0\CauTrucLap.deps.json
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\CauTrucLap\bin\Debug\net8.0\CauTrucLap.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\CauTrucLap\bin\Debug\net8.0\CauTrucLap.dll
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\CauTrucLap\bin\Debug\net8.0\CauTrucLap.pdb
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\CauTrucLap\obj\Debug\net8.0\CauTrucLap.dll
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\CauTrucLap\obj\Debug\net8.0\refint\CauTrucLap.dll
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\CauTrucLap\obj\Debug\net8.0\CauTrucLap.pdb
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\CauTrucLap\obj\Debug\net8.0\CauTrucLap.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Hoc-Code-game\C#\CauTrucLap\obj\Debug\net8.0\ref\CauTrucLap.dll
