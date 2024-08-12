@@ -6,30 +6,6 @@ namespace CauTrucLap
 {
     static void Main(string[] args)
         {
-         /*string[] users = {"Nam", "Cuong", "Khanh", "Hoang", "Tuan"};
-
-         /*foreach (string user in users)
-         {
-           Console.WriteLine(user);
-         }*/
-
-         /*for (int i = 0; i < users.Length; i++) /*-Hien thi theo dieu kien if
-         {
-            if(users[i].Length == 5)
-            {
-                Console.WriteLine(users[i]);
-            }
-         }} */
-
-         /*for (int i = 0; i < 10; i++)
-         {
-           if(i==5)
-           {
-            break;
-           } 
-           Console.WriteLine("i= "+i);
-         }
-         Console.WriteLine("End"); */
 
          // Bước 1: Khai báo các biến
             double TienGui = 1.0;
